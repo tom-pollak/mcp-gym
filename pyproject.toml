@@ -11,6 +11,7 @@ dependencies = [
     "einx[torch]>=0.3.0",
     "gymnasium[box2d,classic-control]>=1.1.1",
     "jaxtyping>=0.3.0",
+    "jupyter>=1.1.1",
     "matplotlib>=3.10.1",
     "mcp>=1.5.0",
     "numpy>=2.2.4",
